@@ -4,7 +4,7 @@ from flask import *
 
 # initialize flask app----f must be uppercase----since it is the framework itself
 
-# dunder name----an inbuilt variable 
+  # dunder name----an inbuilt variable 
 
 app=Flask(__name__)
 
