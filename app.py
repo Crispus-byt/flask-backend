@@ -180,7 +180,7 @@ def mpesa_payment():
         encoded = base64.b64encode(data.encode())
         password = encoded.decode()
 
-        # BODY OR PAYLOAD
+                # BODY OR PAYLOAD
         payload = {
         "BusinessShortCode": "174379",
         "Password":password,
