@@ -36,7 +36,7 @@ CREATE TABLE `product_details` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 --
--- Dumping data for table `product_details`
+--   Dumping data for table `product_details`
 --
 
 INSERT INTO `product_details` (`product_id`, `product_name`, `product_description`, `product_cost`, `product_photo`) VALUES
